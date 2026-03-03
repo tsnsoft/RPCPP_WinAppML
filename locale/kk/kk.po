@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-03-03 12:52+0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: main.cpp\n"
+"X-Poedit-SearchPath-1: gui.cpp\n"
+"X-Poedit-SearchPath-2: gui.h\n"
+
+#: gui.cpp:21
+msgid "Hello, user! I'm a C++ program with wxWidgets!"
+msgstr ""
+"Сәлеметсіз бе, пайдаланушы! Мен wxWidgets бағдарламасы бар C++ "
+"бағдарламасында жұмыс істеймін!"
+
+#: gui.cpp:27
+msgid "en"
+msgstr "en"
+
+#: gui.cpp:27
+msgid "kk"
+msgstr "kk"
+
+#: gui.cpp:27
+msgid "ru"
+msgstr "ru"
+
+#: gui.cpp:27
+msgid "uz"
+msgstr "uz"
+
+#: gui.cpp:33
+msgid "Next"
+msgstr "Келесі"
+
+#: gui.cpp:60
+msgid "Hello!"
+msgstr "Сәлем!"
+
+#: gui.cpp:64
+msgid "Thank you"
+msgstr "Рақмет сізге"
+
+#: gui.cpp:68
+msgid "ok"
+msgstr "жарайды"
+
+#: gui.cpp:89
+msgid "good"
+msgstr "жақсы"
+
+#: gui.cpp:93
+msgid "C++ like"
+msgstr "C++ сияқты"
+
+#: gui.cpp:97
+msgid "Press me"
+msgstr "Мені басыңыз"
+
+#: gui.h:48
+msgid "Main Window"
+msgstr "Негізгі терезе"
+
+#: gui.h:68
+msgid "Dialog Window"
+msgstr "Диалогтық терезе"
+
+#: gui.h:88
+msgid "Second Window"
+msgstr "Екінші терезе"
+
+#: main.cpp:24
+msgid "Button pressed in second window!"
+msgstr "Екінші терезеде түйме басылды!"
+
+#: main.cpp:24 main.cpp:148
+msgid "Information"
+msgstr "Ақпарат"
+
+#: main.cpp:148
+msgid "Language changed successfully!"
+msgstr "Тіл сәтті өзгертілді!"
+
+#~ msgid "pt"
+#~ msgstr "pt"
+
+#~ msgid "Info"
+#~ msgstr "Informação"
+
+#~ msgid "Restart Required"
+#~ msgstr "Reinicialização Necessária"
+
+#~ msgid ""
+#~ "Language changed to: Korean\n"
+#~ "Please restart the application to apply language changes"
+#~ msgstr ""
+#~ "Idioma alterado para: Coreano\n"
+#~ "Por favor, reinicie o aplicativo para aplicar as alterações de idioma"
+
+#~ msgid ""
+#~ "Language changed to: English\n"
+#~ "Please restart the application to apply language changes"
+#~ msgstr ""
+#~ "Idioma alterado para: Inglês\n"
+#~ "Por favor, reinicie o aplicativo para aplicar as alterações de idioma"

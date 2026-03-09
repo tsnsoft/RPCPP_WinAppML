@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-03-03 12:21+0500\n"
+"POT-Creation-Date: 2026-03-09 18:58+0500\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 3.8\n"
-"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-Basepath: ../..\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: main.cpp\n"
@@ -22,12 +22,12 @@ msgid "Hello, user! I'm a C++ program with wxWidgets!"
 msgstr "Salom, foydalanuvchi! Men wxWidgets bilan ishlaydigan C++ dasturiman!"
 
 #: gui.cpp:27
-msgid "pt"
-msgstr "pt"
-
-#: gui.cpp:27
 msgid "en"
 msgstr "en"
+
+#: gui.cpp:27
+msgid "kk"
+msgstr "kk"
 
 #: gui.cpp:27
 msgid "ru"
@@ -81,13 +81,16 @@ msgstr "Ikkinchi oyna"
 msgid "Button pressed in second window!"
 msgstr "Ikkinchi oynada tugma bosildi!"
 
-#: main.cpp:24 main.cpp:146
+#: main.cpp:24 main.cpp:147
 msgid "Information"
 msgstr "Ma'lumot"
 
-#: main.cpp:146
+#: main.cpp:147
 msgid "Language changed successfully!"
 msgstr "Til muvaffaqiyatli o'zgartirildi!"
+
+#~ msgid "pt"
+#~ msgstr "pt"
 
 #~ msgid "Info"
 #~ msgstr "Информация"

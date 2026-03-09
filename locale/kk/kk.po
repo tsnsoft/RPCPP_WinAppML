@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-03-03 12:52+0500\n"
+"POT-Creation-Date: 2026-03-09 18:57+0500\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -82,11 +82,11 @@ msgstr "Екінші терезе"
 msgid "Button pressed in second window!"
 msgstr "Екінші терезеде түйме басылды!"
 
-#: main.cpp:24 main.cpp:148
+#: main.cpp:24 main.cpp:147
 msgid "Information"
 msgstr "Ақпарат"
 
-#: main.cpp:148
+#: main.cpp:147
 msgid "Language changed successfully!"
 msgstr "Тіл сәтті өзгертілді!"
 
